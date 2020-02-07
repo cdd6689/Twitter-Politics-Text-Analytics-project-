@@ -1,5 +1,7 @@
 # Text-Analysis
 
+• Presentation Link: https://drive.google.com/file/d/14_OApOj0o33j3M-O9fA7-sn63v57i0iN/view?usp=sharing
+
 Twitter Project - Democratic Candidates Text Analysis Group Project
 
 • Used lift and sentiment scoring to understand 2020 presidential democratic candidate’s public and media perceptions
